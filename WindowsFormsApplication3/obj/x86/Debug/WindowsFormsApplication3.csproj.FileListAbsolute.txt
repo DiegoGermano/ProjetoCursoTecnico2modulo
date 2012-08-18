@@ -1,0 +1,378 @@
+c:\users\diego_germano\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\diego_germano\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\diego_germano\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\diego_germano\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\diego_germano\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\diego_germano\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\diego_germano\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+c:\users\diego_germano\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+c:\users\diego_germano\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\Login_Locadora.Login.resources
+c:\users\diego_germano\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Clientes.resources
+c:\users\diego_germano\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Filmes.resources
+c:\users\diego_germano\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Locadora_Principal.resources
+C:\Users\Diego_Germano\Documents\Visual Studio 2010\Projects\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Diego_Germano\Documents\Visual Studio 2010\Projects\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Diego_Germano\Documents\Visual Studio 2010\Projects\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego_Germano\Documents\Visual Studio 2010\Projects\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Clientes.resources
+C:\Users\Diego_Germano\Documents\Visual Studio 2010\Projects\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Filmes.resources
+C:\Users\Diego_Germano\Documents\Visual Studio 2010\Projects\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Locadora_Principal.resources
+C:\Users\Diego_Germano\Documents\Visual Studio 2010\Projects\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\Login_Locadora.Login.resources
+C:\Users\Diego_Germano\Documents\Visual Studio 2010\Projects\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Diego_Germano\Documents\Visual Studio 2010\Projects\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Diego_Germano\Documents\Visual Studio 2010\Projects\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Diego_Germano\Documents\Visual Studio 2010\Projects\Projeto_locadora\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Diego_Germano\Documents\Visual Studio 2010\Projects\Projeto_locadora\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Diego_Germano\Documents\Visual Studio 2010\Projects\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FmUsuario.resources
+C:\Users\Diego_Germano\Documents\Visual Studio 2010\Projects\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmSenhaAdm.resources
+E:\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+E:\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+E:\Projeto_locadora\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\Projeto_locadora\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Clientes.resources
+E:\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Filmes.resources
+E:\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FmUsuario.resources
+E:\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Locadora_Principal.resources
+E:\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmSenhaAdm.resources
+E:\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\Login_Locadora.Login.resources
+E:\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+G:\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+G:\Projeto_locadora\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+G:\Projeto_locadora\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+G:\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Clientes.resources
+G:\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Filmes.resources
+G:\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FmUsuario.resources
+G:\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Locadora_Principal.resources
+G:\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmSenhaAdm.resources
+G:\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\Login_Locadora.Login.resources
+G:\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+G:\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Projeto_locadora\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+G:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+G:\Projeto_locadora.escola\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+G:\Projeto_locadora.escola\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+G:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Carregando.resources
+G:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Clientes.resources
+G:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Filmes.resources
+G:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FmUsuario.resources
+G:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Locadora_Principal.resources
+G:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmSenhaAdm.resources
+G:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\Login_Locadora.Login.resources
+G:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+G:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+E:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+E:\Projeto_locadora.escola\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\Projeto_locadora.escola\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Carregando.resources
+E:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Clientes.resources
+E:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Filmes.resources
+E:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FmUsuario.resources
+E:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Locadora_Principal.resources
+E:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmSenhaAdm.resources
+E:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\Login_Locadora.Login.resources
+E:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarFilme.resources
+G:\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarFilme.resources
+E:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+E:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+E:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarFilme.resources
+E:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Carregando.resources
+E:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Clientes.resources
+E:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Filmes.resources
+E:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FmUsuario.resources
+E:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Locadora_Principal.resources
+E:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmSenhaAdm.resources
+E:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\Login_Locadora.Login.resources
+E:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+G:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+G:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+G:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarFilme.resources
+G:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Carregando.resources
+G:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Clientes.resources
+G:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Filmes.resources
+G:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FmUsuario.resources
+G:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Locadora_Principal.resources
+G:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarCliente.resources
+G:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmSenhaAdm.resources
+G:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\Login_Locadora.Login.resources
+G:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+G:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+G:\TRABALHO - FE1\Projeto_locadora.escola\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Documents and Settings\Aluno Noite\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Documents and Settings\Aluno Noite\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Documents and Settings\Aluno Noite\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Documents and Settings\Aluno Noite\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Documents and Settings\Aluno Noite\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno Noite\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarFilme.resources
+C:\Documents and Settings\Aluno Noite\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Carregando.resources
+C:\Documents and Settings\Aluno Noite\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Clientes.resources
+C:\Documents and Settings\Aluno Noite\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Filmes.resources
+C:\Documents and Settings\Aluno Noite\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FmUsuario.resources
+C:\Documents and Settings\Aluno Noite\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Locadora_Principal.resources
+C:\Documents and Settings\Aluno Noite\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarCliente.resources
+C:\Documents and Settings\Aluno Noite\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmSenhaAdm.resources
+C:\Documents and Settings\Aluno Noite\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\Login_Locadora.Login.resources
+C:\Documents and Settings\Aluno Noite\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Documents and Settings\Aluno Noite\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Aluno Noite\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Diego_Germano\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Diego_Germano\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Diego_Germano\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Diego_Germano\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Diego_Germano\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego_Germano\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarFilme.resources
+C:\Users\Diego_Germano\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Carregando.resources
+C:\Users\Diego_Germano\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Clientes.resources
+C:\Users\Diego_Germano\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Filmes.resources
+C:\Users\Diego_Germano\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FmUsuario.resources
+C:\Users\Diego_Germano\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Locadora_Principal.resources
+C:\Users\Diego_Germano\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarCliente.resources
+C:\Users\Diego_Germano\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmSenhaAdm.resources
+C:\Users\Diego_Germano\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\Login_Locadora.Login.resources
+C:\Users\Diego_Germano\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Diego_Germano\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Diego_Germano\Desktop\Projeto_locadora.escola\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ProjetoLoacdoraAtualizado\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+E:\ProjetoLoacdoraAtualizado\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+G:\ProjetoLoacdoraAtualizado\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+G:\ProjetoLoacdoraAtualizado\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+G:\ProjetoLoacdoraAtualizado\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+G:\ProjetoLoacdoraAtualizado\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+G:\ProjetoLoacdoraAtualizado\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\ProjetoLoacdoraAtualizado\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarFilme.resources
+G:\ProjetoLoacdoraAtualizado\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Carregando.resources
+G:\ProjetoLoacdoraAtualizado\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Clientes.resources
+G:\ProjetoLoacdoraAtualizado\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Filmes.resources
+G:\ProjetoLoacdoraAtualizado\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FmUsuario.resources
+G:\ProjetoLoacdoraAtualizado\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Locadora_Principal.resources
+G:\ProjetoLoacdoraAtualizado\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarCliente.resources
+G:\ProjetoLoacdoraAtualizado\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmSenhaAdm.resources
+G:\ProjetoLoacdoraAtualizado\WindowsFormsApplication3\obj\x86\Debug\Login_Locadora.Login.resources
+G:\ProjetoLoacdoraAtualizado\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+G:\ProjetoLoacdoraAtualizado\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\ProjetoLoacdoraAtualizado\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\ProjetoLoacdoraAtualizado\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.LocarFilme.resources
+E:\ProjetoC#Atualizado\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+E:\ProjetoC#Atualizado\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+E:\ProjetoC#Atualizado\backup-VideoLocadora\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\ProjetoC#Atualizado\backup-VideoLocadora\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\ProjetoC#Atualizado\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ProjetoC#Atualizado\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarFilme.resources
+E:\ProjetoC#Atualizado\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Carregando.resources
+E:\ProjetoC#Atualizado\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Clientes.resources
+E:\ProjetoC#Atualizado\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Filmes.resources
+E:\ProjetoC#Atualizado\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FmUsuario.resources
+E:\ProjetoC#Atualizado\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Locadora_Principal.resources
+E:\ProjetoC#Atualizado\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarCliente.resources
+E:\ProjetoC#Atualizado\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmSenhaAdm.resources
+E:\ProjetoC#Atualizado\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.LocarFilme.resources
+E:\ProjetoC#Atualizado\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Login_Locadora.Login.resources
+E:\ProjetoC#Atualizado\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\ProjetoC#Atualizado\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ProjetoC#Atualizado\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ProjetoC#Atualizado\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.DevolverFilme.resources
+E:\ProjetoC#Atualizado\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FilmesLocados.resources
+C:\Users\Diego_Germano\Desktop\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Diego_Germano\Desktop\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Diego_Germano\Desktop\backup-VideoLocadora\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Diego_Germano\Desktop\backup-VideoLocadora\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Diego_Germano\Desktop\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego_Germano\Desktop\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarFilme.resources
+C:\Users\Diego_Germano\Desktop\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Carregando.resources
+C:\Users\Diego_Germano\Desktop\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Clientes.resources
+C:\Users\Diego_Germano\Desktop\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.DevolverFilme.resources
+C:\Users\Diego_Germano\Desktop\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Filmes.resources
+C:\Users\Diego_Germano\Desktop\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FilmesLocados.resources
+C:\Users\Diego_Germano\Desktop\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FmUsuario.resources
+C:\Users\Diego_Germano\Desktop\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Locadora_Principal.resources
+C:\Users\Diego_Germano\Desktop\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarCliente.resources
+C:\Users\Diego_Germano\Desktop\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmSenhaAdm.resources
+C:\Users\Diego_Germano\Desktop\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.LocarFilme.resources
+C:\Users\Diego_Germano\Desktop\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Login_Locadora.Login.resources
+C:\Users\Diego_Germano\Desktop\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Diego_Germano\Desktop\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Diego_Germano\Desktop\backup-VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Diego_Germano\Desktop\diego\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Diego_Germano\Desktop\diego\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Diego_Germano\Desktop\diego\VideoLocadora\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Diego_Germano\Desktop\diego\VideoLocadora\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Diego_Germano\Desktop\diego\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego_Germano\Desktop\diego\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarFilme.resources
+C:\Users\Diego_Germano\Desktop\diego\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Carregando.resources
+C:\Users\Diego_Germano\Desktop\diego\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Clientes.resources
+C:\Users\Diego_Germano\Desktop\diego\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.DevolverFilme.resources
+C:\Users\Diego_Germano\Desktop\diego\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Filmes.resources
+C:\Users\Diego_Germano\Desktop\diego\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FilmesLocados.resources
+C:\Users\Diego_Germano\Desktop\diego\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FmUsuario.resources
+C:\Users\Diego_Germano\Desktop\diego\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Locadora_Principal.resources
+C:\Users\Diego_Germano\Desktop\diego\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarCliente.resources
+C:\Users\Diego_Germano\Desktop\diego\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmSenhaAdm.resources
+C:\Users\Diego_Germano\Desktop\diego\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.LocarFilme.resources
+C:\Users\Diego_Germano\Desktop\diego\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Login_Locadora.Login.resources
+C:\Users\Diego_Germano\Desktop\diego\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Diego_Germano\Desktop\diego\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Diego_Germano\Desktop\diego\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Diego_Germano\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Diego_Germano\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Diego_Germano\Desktop\VideoLocadora\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Diego_Germano\Desktop\VideoLocadora\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Diego_Germano\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego_Germano\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarFilme.resources
+C:\Users\Diego_Germano\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Carregando.resources
+C:\Users\Diego_Germano\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Clientes.resources
+C:\Users\Diego_Germano\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.DevolverFilme.resources
+C:\Users\Diego_Germano\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Filmes.resources
+C:\Users\Diego_Germano\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FilmesLocados.resources
+C:\Users\Diego_Germano\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FmUsuario.resources
+C:\Users\Diego_Germano\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Locadora_Principal.resources
+C:\Users\Diego_Germano\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarCliente.resources
+C:\Users\Diego_Germano\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmSenhaAdm.resources
+C:\Users\Diego_Germano\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.LocarFilme.resources
+C:\Users\Diego_Germano\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Login_Locadora.Login.resources
+C:\Users\Diego_Germano\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Diego_Germano\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Diego_Germano\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+E:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+E:\VideoLocadora\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\VideoLocadora\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarFilme.resources
+E:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Carregando.resources
+E:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Clientes.resources
+E:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.DevolverFilme.resources
+E:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Filmes.resources
+E:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FilmesLocados.resources
+E:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FmUsuario.resources
+E:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Locadora_Principal.resources
+E:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarCliente.resources
+E:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmSenhaAdm.resources
+E:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.LocarFilme.resources
+E:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Login_Locadora.Login.resources
+E:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+S:\Users\Windows 7\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+S:\Users\Windows 7\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+S:\Users\Windows 7\Desktop\VideoLocadora\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+S:\Users\Windows 7\Desktop\VideoLocadora\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+S:\Users\Windows 7\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\Users\Windows 7\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarFilme.resources
+S:\Users\Windows 7\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Carregando.resources
+S:\Users\Windows 7\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Clientes.resources
+S:\Users\Windows 7\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.DevolverFilme.resources
+S:\Users\Windows 7\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Filmes.resources
+S:\Users\Windows 7\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FilmesLocados.resources
+S:\Users\Windows 7\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FmUsuario.resources
+S:\Users\Windows 7\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Locadora_Principal.resources
+S:\Users\Windows 7\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarCliente.resources
+S:\Users\Windows 7\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmSenhaAdm.resources
+S:\Users\Windows 7\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.LocarFilme.resources
+S:\Users\Windows 7\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Login_Locadora.Login.resources
+S:\Users\Windows 7\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+S:\Users\Windows 7\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+S:\Users\Windows 7\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Aluno Noite\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Documents and Settings\Aluno Noite\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Documents and Settings\Aluno Noite\Desktop\VideoLocadora\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Documents and Settings\Aluno Noite\Desktop\VideoLocadora\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Documents and Settings\Aluno Noite\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno Noite\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarFilme.resources
+C:\Documents and Settings\Aluno Noite\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Carregando.resources
+C:\Documents and Settings\Aluno Noite\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Clientes.resources
+C:\Documents and Settings\Aluno Noite\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.DevolverFilme.resources
+C:\Documents and Settings\Aluno Noite\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Filmes.resources
+C:\Documents and Settings\Aluno Noite\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FilmesLocados.resources
+C:\Documents and Settings\Aluno Noite\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FmUsuario.resources
+C:\Documents and Settings\Aluno Noite\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Locadora_Principal.resources
+C:\Documents and Settings\Aluno Noite\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarCliente.resources
+C:\Documents and Settings\Aluno Noite\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmSenhaAdm.resources
+C:\Documents and Settings\Aluno Noite\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.LocarFilme.resources
+C:\Documents and Settings\Aluno Noite\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Login_Locadora.Login.resources
+C:\Documents and Settings\Aluno Noite\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Documents and Settings\Aluno Noite\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Aluno Noite\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Diego_Germano\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmConfirmaAlteracao.resources
+C:\Documents and Settings\Aluno Noite\Desktop\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmConfirmaAlteracao.resources
+F:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+F:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+F:\VideoLocadora\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+F:\VideoLocadora\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+F:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarFilme.resources
+F:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Carregando.resources
+F:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Clientes.resources
+F:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.DevolverFilme.resources
+F:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Filmes.resources
+F:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FilmesLocados.resources
+F:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FmUsuario.resources
+F:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Locadora_Principal.resources
+F:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarCliente.resources
+F:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmConfirmaAlteracao.resources
+F:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmSenhaAdm.resources
+F:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.LocarFilme.resources
+F:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\Login_Locadora.Login.resources
+F:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+F:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\VideoLocadora\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Diego\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Diego\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Diego\Desktop\ProjetoLocadora\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Diego\Desktop\ProjetoLocadora\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Diego\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarFilme.resources
+C:\Users\Diego\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Carregando.resources
+C:\Users\Diego\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Clientes.resources
+C:\Users\Diego\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.DevolverFilme.resources
+C:\Users\Diego\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Filmes.resources
+C:\Users\Diego\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FilmesLocados.resources
+C:\Users\Diego\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FmUsuario.resources
+C:\Users\Diego\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Locadora_Principal.resources
+C:\Users\Diego\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarCliente.resources
+C:\Users\Diego\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmConfirmaAlteracao.resources
+C:\Users\Diego\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmSenhaAdm.resources
+C:\Users\Diego\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.LocarFilme.resources
+C:\Users\Diego\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\Login_Locadora.Login.resources
+C:\Users\Diego\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Diego\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Diego\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Diego_Germano\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Diego_Germano\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Diego_Germano\Desktop\ProjetoLocadora\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Diego_Germano\Desktop\ProjetoLocadora\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Diego_Germano\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego_Germano\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarFilme.resources
+C:\Users\Diego_Germano\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Carregando.resources
+C:\Users\Diego_Germano\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Clientes.resources
+C:\Users\Diego_Germano\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.DevolverFilme.resources
+C:\Users\Diego_Germano\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Filmes.resources
+C:\Users\Diego_Germano\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FilmesLocados.resources
+C:\Users\Diego_Germano\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FmUsuario.resources
+C:\Users\Diego_Germano\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\Locadora_2.Locadora_Principal.resources
+C:\Users\Diego_Germano\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.AlterarCliente.resources
+C:\Users\Diego_Germano\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.FrmConfirmaAlteracao.resources
+C:\Users\Diego_Germano\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.frmSenhaAdm.resources
+C:\Users\Diego_Germano\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.LocarFilme.resources
+C:\Users\Diego_Germano\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\Login_Locadora.Login.resources
+C:\Users\Diego_Germano\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Diego_Germano\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Diego_Germano\Desktop\ProjetoLocadora\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
